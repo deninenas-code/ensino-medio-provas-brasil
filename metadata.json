@@ -1,0 +1,6 @@
+{
+  "name": "ESCSimulados - GabaritaBrasil",
+  "description": "Plataforma aberta de simulados para estudantes do Ensino Fundamental II e Médio (ENEM, Prova Paulista, SARESP, OBMEP, FUVEST e OBA) com resolução comentada e cálculo TRI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
